@@ -1,0 +1,3 @@
+The three slots big, medium, or small, are represented by 1, 2, and 3 respectively. The constraint is a car can only park in a parking space if carType is matched.
+If there is no space available,It will return false, otherwise park the car in that size space and return true.
+If there are 2 spaces for big car, no space for medium car and 1 space for small car, then constructor call will be like OurParkingSystem(5, 2, 1). 
